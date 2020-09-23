@@ -1,0 +1,90 @@
+{
+    "mixuebingcheng": {
+        "name": "蜜雪冰城",
+        "rating": "4.7",
+        "price": "7.0",
+        "recent_order_num": "838",
+        "delivery_mode": "30分钟461m",
+        "float_minmum_order_amount": "15",
+        "float_delivery_fee": "1",
+        "img": "img/蜜雪冰城.png",
+        "detail": "浓醇奶茶搭配多种小料，一次满足多种丰富的口感，满满一大杯是高性价比的人气饮品！【700ml大杯】"
+    },
+    "wuhanreganmian": {
+        "name": "武汉热干面",
+        "rating": "5.0",
+        "price": "9.8",
+        "recent_order_num": "26",
+        "delivery_mode": "30分钟388m",
+        "float_minmum_order_amount": "15",
+        "float_delivery_fee": "1",
+        "img": "img/武汉热干面.png",
+        "detail": "口味微辣哟"
+    },
+    "tianlala": {
+        "name": "甜啦啦",
+        "rating": "3.0",
+        "price": "7.0",
+        "recent_order_num": "10",
+        "delivery_mode": "30分钟990m",
+        "float_minmum_order_amount": "15",
+        "float_delivery_fee": "1",
+        "img": "img/甜啦啦.png",
+        "detail": "集万千宠爱于一身的舞敌全套奶茶，入口即化的补丁、嚼劲十足的椰果、甜而不腻的红豆、清甜脆爽的马蹄、软糯Q弹的黑糖珍珠，哇，满满一大杯，你想要的的，这里都有…… 主要原料： 原味珍珠，红豆"
+    },
+    "qinghexianbing": {
+        "name": "青禾馅饼",
+        "rating": "4.8",
+        "price": "8.0",
+        "recent_order_num": "351",
+        "delivery_mode": "30分钟2.7km",
+        "float_minmum_order_amount": "15",
+        "float_delivery_fee": "3.5",
+        "img": "img/青禾馅饼.png",
+        "detail": "主要原料： 猪肉"
+    },
+    "hualaishi": {
+        "name": "华莱士·全鸡汉堡",
+        "rating": "4.6",
+        "price": "13.9",
+        "recent_order_num": "2255",
+        "delivery_mode": "30分钟2.3km",
+        "float_minmum_order_amount": "15",
+        "float_delivery_fee": "4",
+        "img": "img/华莱士全鸡汉堡.png",
+        "detail": "主要原料： 鸡肉"
+    },
+    "zaliangjianbing": {
+        "name": "杂粮煎饼",
+        "rating": "4.8",
+        "price": "6.5",
+        "recent_order_num": "128",
+        "delivery_mode": "30分钟1.1km",
+        "float_minmum_order_amount": "15",
+        "float_delivery_fee": "1",
+        "img": "img/杂粮煎饼.png",
+        "detail": "竞选五谷杂粮。好吃又营养，美味又健康。 主要原料： 小麦粉,玉米粉,小米,高粱.黄豆面,小葱,香菜,生菜,鸡蛋,咸菜"
+    },
+    "baicaoxiang": {
+        "name": "百草香黄焖鸡",
+        "rating": "4.4",
+        "price": "19.9",
+        "recent_order_num": "691",
+        "delivery_mode": "30分钟248m",
+        "float_minmum_order_amount": "8",
+        "float_delivery_fee": "0.9",
+        "img": "img/百草香黄焖鸡.png",
+        "detail": "主要原料： 鸡腿"
+    },
+    "baofengchaoji": {
+        "name": "爆风炒鸡",
+        "rating": "4.8",
+        "price": "14.9",
+        "recent_order_num": "396",
+        "delivery_mode": "30分钟1.0km",
+        "float_minmum_order_amount": "15",
+        "float_delivery_fee": "1",
+        "img": "img/爆风炒鸡.png",
+        "detail": "主要原料： 鸡肉、土豆"
+    }
+}
